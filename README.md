@@ -61,8 +61,9 @@
 ## ⚡ GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitjaryal&show_icons=true&theme=radical&hide_border=true" height="165px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaryal&layout=compact&theme=radical&hide_border=true" height="165px"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="90%"/>
