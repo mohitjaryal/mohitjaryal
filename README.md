@@ -66,8 +66,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true&theme=react-dark" alt="GitHub Activity Graph" width="90%" />
 </p>
+
 
 ---
 <!--
