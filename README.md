@@ -71,20 +71,27 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true&custom_title=Mohit's%20Contribution%20Graph&radius=10" alt="GitHub Activity Graph" width="90%" />
 </p>
 
+---
+## 🕒 Activity Insights  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=700&lines=✨+Analyzing+My+Active+Coding+Hours...;🌙+Night+Owl+Mode:+Most+Active+at+9PM–1AM;⚡+Peak+Days:+Friday+%26+Saturday" alt="Activity Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Most%20Active%20Hours-9PM%E2%80%931AM-0D1117?style=for-the-badge&logo=github&logoColor=00FFB9&labelColor=0D1117&color=00FFB9" alt="Active Hours Badge"/>
+  <img src="https://img.shields.io/badge/Peak%20Coding%20Days-Fri%20%26%20Sat-0D1117?style=for-the-badge&logo=calendar&logoColor=00FFB9&labelColor=0D1117&color=00FFB9" alt="Active Days Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true&custom_title=Day-wise%20Activity%20Overview&radius=10" width="90%" alt="Day-wise Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=7CFC00&center=true&vCenter=true&width=600&lines=💻+Every+late+night+commit+brings+a+new+dawn!" alt="Motivational Typing"/>
+</p>
 
 ---
-<!--
-## 🧠 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=💭+In+code,+we+don’t+just+solve+problems+—+we+create+possibilities." alt="Quote" />
-</p>
- -->
----
-
-## 🪄 
-<p align="center">
-  <img src="https://github.com/mayhemantt/mayhemantt/blob/master/Assets/Developer.gif?raw=true" width="350px"/>
-</p>
 
 <h3 align="center">✨ The journey never ends — just new ideas waiting to be built.</h3>
 
