@@ -66,7 +66,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true&theme=react-dark" alt="GitHub Activity Graph" width="90%" />
+  <!-- Activity Graph (Dynamic) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true&custom_title=Mohit's%20Contribution%20Graph&radius=10" alt="GitHub Activity Graph" width="90%" />
 </p>
 
 
