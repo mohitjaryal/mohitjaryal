@@ -13,12 +13,14 @@
 
 ---
 
-### 💡 About Me   
-- 🧑‍💻 Passionate about building impactful solutions
-- ⚙️ I build not just for now, but for what tomorrow could become
-- 🌌 I code at the intersection of **creativity, logic, and innovation**    
-- ⚡ I believe every line of code should **solve, inspire, and evolve**
-- ⚙️ Energy of caffeine, clarity of logic, vision of tomorrow.
+### 💡 About Me  
+> 💻 For me, code isn’t about syntax; it’s about shaping systems that **make sense, move, and matter.**  
+> ⚙️ I believe every problem hides an opportunity to design something better — **something that should already exist.**   
+> 🚀 **For me, coding isn’t just a skill — it’s a way to build the future, to question what exists, and to create what doesn’t.**
+
+---
+
+### 🧠 The future isn’t ahead of us — it’s hidden inside the choices we make now.
 
 ---
 
