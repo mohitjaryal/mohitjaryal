@@ -14,7 +14,8 @@
 ---
 
 ### 💡 About Me   
-- 🧑‍💻 Passionate about **building impactful solutions**
+- 🧑‍💻 Passionate about building impactful solutions
+- ⚙️ I build not just for now, but for what tomorrow could become
 - 🌌 I code at the intersection of **creativity, logic, and innovation**    
 - ⚡ I believe every line of code should **solve, inspire, and evolve**
 - ⚙️ Energy of caffeine, clarity of logic, vision of tomorrow.
