@@ -73,10 +73,7 @@
  <img src="https://img.shields.io/badge/Most%20Active%20Hours-9PM--3AM-0D1117?style=for-the-badge&logo=github&logoColor=00FFB9&labelColor=0D1117&color=#0D1117" alt="Active Hours Badge"/>
 </p>
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaryal&layout=compact&theme=radical&hide_border=true" height="165px"/>
-</p>
+--------_@-o3490-439-49
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjaryal&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF&area=true&hide_border=true&custom_title=Day-wise%20Activity%20Overview&radius=10" width="90%" alt="Day-wise Activity Graph"/>
