@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo.gif?raw=true" alt="animated header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFC00,100:00FFFF&height=100&section=header&animation=twinkling"/>
 </p>
+
 
 <h1 align="center"> Hey, I'm <span style="color:#7CFC00;">Mohit Jaryal</span> </h1>
 <h3 align="center">🌙 In the noise, I build silence that speaks</h3>
