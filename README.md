@@ -54,6 +54,9 @@
 ### 🧩 Frameworks & Libraries  
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="NumPy"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" alt="pandas"/>
+![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/88/Matplotlib_logo.svg)
+![Seaborn](https://upload.wikimedia.org/wikipedia/commons/3/33/Seaborn_logo.svg)
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" height="40"/>
 
 ### 🛠️ Tools & Platforms  
