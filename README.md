@@ -54,8 +54,6 @@
 ### 🧩 Frameworks & Libraries  
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="NumPy"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" alt="pandas"/>
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><polyline points='8,48 16,32 32,40 48,16 56,24' fill='none' stroke='black' stroke-width='4'/></svg>" height="40" alt="matplotlib"/>
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" height="40"/>
 
 ### 🛠️ Tools & Platforms  
