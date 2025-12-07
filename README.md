@@ -52,9 +52,14 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js," height="40"/>
 
 ### 🧩 Frameworks & Libraries  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="NumPy"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" alt="pandas"/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" height="40"/>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="40" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" height="40" alt="Web Tech Stack"/>
+</p>
 
 ### 🛠️ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,figma" height="40"/>
