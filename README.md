@@ -74,6 +74,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=700&lines=🌙+In+quiet+moments,+code+becomes+vision;+Most+Active+at+9PM–3AM+⚡" alt="Activity Typing Animation"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Most%20Active%20Hours-9PM--3AM-0D1117?style=for-the-badge&logo=github&logoColor=00FFB9&labelColor=0D1117&color=0D1117" alt="Active Hours Badge"/>
+</p>
 
 
 <p align="center">
