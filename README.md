@@ -26,12 +26,6 @@
 ---
 
 ## 🌎 Connect With Me
-<p align="center">
-<a href="https://mohitjaryal.online">
-  <img src="https://cdn-icons-png.flaticon.com/512/61/61112.png" height="40" alt="Website"/>
-</a>
-
-</p>
 
 
 ---
