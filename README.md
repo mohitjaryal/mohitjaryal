@@ -14,7 +14,7 @@ just a CS student who got tired of waiting to be "ready" so started building ins
 mohit = {
     "role"   : ["student", "builder"],
     "focus"  : ["full-stack", "artificial intelligence"],
-    "stack"  : ["python", "typescript", "next.js", "react.js", "fastapi"],
+    "stack"  : ["python", "typescript", "next.js", "react.js", "fastapi", "postgresql", "mongodb"],
     "hours"  : "awake enough to keep building",
     "mantra" : "every problem hides a better system waiting to be designed.",
 }
