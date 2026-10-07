@@ -8,7 +8,7 @@ student · builder · full stack / ai / explorer
 
 ## about
 
-just a CS student who got tired of waiting to be "ready" so started building instead. most of my time goes into AI, computer vision, and robotics — learning ideas, building projects, and creating things along the way. i enjoy building useful and ambitious stuff, exploring intelligent systems, and collaborating with people who like creating cool things. open to collaboration and always learning.
+just a CS student who got tired of waiting to be "ready" so started building instead. most of my time goes into learning ideas, building projects, and creating things along the way. i enjoy building useful and ambitious stuff, exploring intelligent systems, and collaborating with people who like creating cool things. open to collaboration and always learning.
 
 ```python
 mohit = {
